@@ -4,5 +4,5 @@
  • Designed a responsive interface for seamless user interaction.</i>
 
 <img src="https://ik.imagekit.io/freshman/ezgif-5-d4bcbfc80baf_9V2NUhxNy.gif?tr=orig-true" alt="simonGame"  height="300px" width="300px" />
-
-<p> &copy;For More Project Check my Portfolio</p>
+<a href="https://ibrahimmallik786.github.io/Simon_Says_Game/" >View Live Project</a>
+<p> &copy;For More Project Check my <a href="">Portfolio</a></p>
