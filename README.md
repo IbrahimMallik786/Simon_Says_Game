@@ -4,8 +4,8 @@
  • Designed a responsive interface for seamless user interaction.</i>
  <br>
 <p>👉 Feel free to explore my <a href="https://ibrahimmallik786.github.io/Simon_Says_Game/">Simon Says Game</a></p>
-<p>This is a screenshot of my Simon Says Game</p>
-<img src="https://github.com/user-attachments/assets/0f7ded11-4bbd-4e2f-8f61-91979fed5452" alt="simonGame"/>
+<p>Take a sneak peek at my Simon Says Game</p>
+<img src="https://github.com/IbrahimMallik786/Simon_Says_Game/blob/588bcc4e8e75b5709ddccd5cb1b1c713f0e12cd1/Simon_game_screenshot.png" height="400px"/>
 
 
 
