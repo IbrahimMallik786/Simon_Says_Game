@@ -34,3 +34,13 @@ body{
 h1{
 color: rgb(255, 0, 149);
 }
+/*MObile view*/
+@media only screen and (max-width: 600px) {
+  
+  .btn{
+    width:100px;
+    height:100px;
+  }
+ 
+  
+}
